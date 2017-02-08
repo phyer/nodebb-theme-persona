@@ -1,41 +1,25 @@
 {
-  "name": "nodebb-theme-persona",
-  "version": "4.2.1",
+  "name": "nodebb-theme-ccmtpersona",
+  "version": "4.2.3",
   "nbbpm": {
     "compatibility": "^1.4.4"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "Persona theme for NodeBB edition ccmt",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/phyer/nodebb-theme-persona/"
   },
-  "keywords": [
-    "nodebb",
-    "theme",
-    "forum",
-    "bootstrap",
-    "responsive"
-  ],
+  "keywords": [],
   "contributors": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@designcreateplay.com",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@designcreateplay.com",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@designcreateplay.com",
-      "url": "https://github.com/barisusakli"
+      "name": "phyer",
+      "email": "phyer@sina.com",
+      "url": "https://github.com/phyer/"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/phyer/nodebb-theme-persona/issues"
   }
 }
