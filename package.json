@@ -2,7 +2,7 @@
   "name": "nodebb-theme-ccmtpersona",
   "version": "4.2.3",
   "nbbpm": {
-    "compatibility": "^1.4.4"
+    "compatibility": "^1.4.3"
   },
   "description": "Persona theme for NodeBB edition ccmt",
   "main": "theme.less",
